@@ -1,0 +1,1 @@
+This is a script you can use in Google Earth Engine (account required) to have a map where you select a country, state, and year, and get a clipped map of Sentinel derived Esri Global Land Cover. The script also produces zonal statistics for the selected region in a pie chart. 
